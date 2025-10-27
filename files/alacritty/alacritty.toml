@@ -1,0 +1,25 @@
+[colors.primary]
+background = "0x0a0a0a"
+foreground = "0xffffff"
+
+[cursor]
+blink_interval = 500
+unfocused_hollow = true
+
+[cursor.style]
+blinking = "On"
+shape = "Beam"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "monospace"
+
+[window]
+decorations = "none"
+dynamic_title = true
+opacity = 0.95
+[window.padding]
+x = 10
+y = 10
